@@ -1,0 +1,3 @@
+Websites used for project:
+http://www.w3schools.com/jsref/jsref_random.asp
+http://stackoverflow.com/questions/9329446/for-each-over-an-array-in-javascript
